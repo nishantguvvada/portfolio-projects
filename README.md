@@ -11,6 +11,7 @@ A list of LIVE projects displayed on the portfolio
 ## Machine Learning
 
 - [BasicBot - A chatbot for question answering](https://ai-basic-bot.vercel.app/)
+- [JobBot - AI-powered note taking assistant](https://agentbots.vercel.app/)
 
 ## Web3
 
