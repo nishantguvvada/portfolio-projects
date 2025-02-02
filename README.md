@@ -3,7 +3,7 @@ A list of LIVE projects displayed on the portfolio
 
 ## Full Stack
 
-- [Grocery - Stock up your grocery]()
+- [Grocery - Stock up your grocery](https://grocery-ten-blush.vercel.app/)
 - [BringMyBling - Connect with travelers from Dubai visiting your city to have your favorite luxury items delivered, avoiding shipping costs.](https://bringmybling.vercel.app/)
 - [HikeBite - Compare your salary against industry standards](https://master--hikebite.netlify.app/)
 - [ToDo - Keep a track of your to-do tasks](https://todo-farm-coral.vercel.app/)
