@@ -3,10 +3,10 @@ A list of LIVE projects displayed on the portfolio
 
 ## Full Stack
 
-- [Grocery - Stock up your grocery](https://grocery-ten-blush.vercel.app/)
-- [BringMyBling - Connect with travelers from Dubai visiting your city to have your favorite luxury items delivered, avoiding shipping costs.](https://bringmybling.vercel.app/)
-- [HikeBite - Compare your salary against industry standards](https://master--hikebite.netlify.app/)
-- [ToDo - Keep a track of your to-do tasks](https://todo-farm-coral.vercel.app/)
+- [Grocery - [MERN with Razorpay integration] Stock up your grocery](https://grocery-ten-blush.vercel.app/)
+- [BringMyBling - [MERN with Stripe integration] Connect with travelers from Dubai visiting your city to have your favorite luxury items delivered, avoiding shipping costs.](https://bringmybling.vercel.app/)
+- [HikeBite - [MERN] Compare your salary against industry standards](https://master--hikebite.netlify.app/)
+- [ToDo - [FARM] Keep a track of your to-do tasks](https://todo-farm-coral.vercel.app/)
 
 ## Machine Learning
 
