@@ -14,6 +14,7 @@ A list of LIVE projects displayed on the portfolio
 - [JobBot - AI-powered note taking assistant](https://agentbots.vercel.app/)
 - [Payments Bot - AI agent for payments (initiating payments using natural language)](https://paymentbot-beta.vercel.app/)
 - [Recruit Bot - AI RAG agent for screening candidate resumes](https://recruit-bot-two.vercel.app/)
+- [Web Bot - AI Agentic RAG for reading website content](https://webbot-flax.vercel.app/)
 
 ## Web3
 
