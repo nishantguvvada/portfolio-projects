@@ -1,6 +1,8 @@
 # portfolio-projects
 A list of LIVE projects displayed on the portfolio
 
+PORTFOLIO: [ngx](https://ngx-six.vercel.app/)
+
 ## Full Stack
 
 - [Grocery - [MERN with Razorpay integration] E-commerce application for groceries](https://grocery-ten-blush.vercel.app/)
