@@ -1,7 +1,6 @@
 # portfolio-projects
-A list of LIVE projects displayed on the portfolio
+A list of LIVE projects displayed on the [portfolio](https://ngx-six.vercel.app/)
 
-PORTFOLIO: [ngx](https://ngx-six.vercel.app/)
 
 ## Full Stack
 
