@@ -17,6 +17,7 @@ A list of LIVE projects displayed on the [portfolio](https://ngx-six.vercel.app/
 - [Recruit Bot - AI RAG agent for screening candidate resumes](https://recruit-bot-two.vercel.app/)
 - [Web Bot - AI Agentic RAG for reading website content](https://webbot-flax.vercel.app/)
 - [Travel Bot - AI Agent for building travel itineraries, bookings and payments](https://travelbot-nu.vercel.app/)
+- [Campaign Bot - AI Agent for marketing campaigns](https://campaign-bot.vercel.app/)
 
 ## Web3
 
