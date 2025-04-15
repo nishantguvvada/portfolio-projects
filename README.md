@@ -19,6 +19,7 @@ A list of LIVE projects displayed on the [portfolio](https://ngx-six.vercel.app/
 - [Travel Bot - AI Agent for building travel itineraries, bookings and payments](https://travelbot-nu.vercel.app/)
 - [Campaign Bot - AI Agent for marketing campaigns](https://campaign-bot.vercel.app/)
 - [Medical AI Swarm - A Swarm of AI Agents for medical use case](https://medical-agent-swarm.vercel.app/)
+- [Agent Flow - A Low Code platform for building AI Agents](https://agent-flow-mauve.vercel.app/)
 
 ## Web3
 
