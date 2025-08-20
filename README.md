@@ -20,6 +20,7 @@ A list of LIVE projects displayed on the [portfolio](https://ngx-six.vercel.app/
 - [Campaign Bot - AI Agent for marketing campaigns](https://campaign-bot.vercel.app/)
 - [Medical AI Swarm - A Swarm of AI Agents for medical use case](https://medical-agent-swarm.vercel.app/)
 - [Agent Flow - A Low Code platform for building AI Agents](https://agent-flow-mauve.vercel.app/)
+- [Issue Desk – An MCP-enabled conversational interface for sentiment analysis](https://issue-desk.vercel.app/)
 
 ## Web3
 
